@@ -1,0 +1,109 @@
+libjcode-pm-perl (2.06-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:45:22 +0800
+
+libjcode-pm-perl (2.06-1) unstable; urgency=low
+
+  * New upstream Release.
+
+ -- Atsushi KAMOSHIDA <kamop@debian.org>  Fri, 11 Aug 2006 15:40:06 +0900
+
+libjcode-pm-perl (2.03-1) unstable; urgency=low
+
+  * New upstream Release.(Closes: #339800)
+
+ -- Atsushi Kamoshida <kamop@debian.org>  Wed, 23 Nov 2005 03:01:12 +0900
+
+libjcode-pm-perl (0.88-2) unstable; urgency=low
+
+  * Fixed Section in control file.
+
+ -- Atsushi Kamoshida <kamop@kamop.org>  Fri, 18 Mar 2005 19:32:12 +0900
+
+libjcode-pm-perl (0.88-1) unstable; urgency=low
+
+  * New upstream Release.(Closes: #258536)
+
+ -- Atsushi KAMOSHIDA <kamop@debian.org>  Fri, 18 Mar 2005 17:34:27 +0900
+
+libjcode-pm-perl (0.83-1) unstable; urgency=low
+
+  * New upstream Release.
+  * Closed #147047.
+
+ -- Atsushi KAMOSHIDA <kamop@kamop.org>  Mon, 22 Sep 2003 02:23:22 +0900
+
+libjcode-pm-perl (0.80-2) unstable; urgency=low
+
+  * Fixed copyright to include the pointer of Artistic License(#157602).
+
+ -- Atsushi Kamoshida <kamop@kamop.org>  Thu, 29 Aug 2002 01:34:03 +0900
+
+libjcode-pm-perl (0.80-1) unstable; urgency=low
+
+  * New Upstream Release.
+
+ -- Atsushi Kamoshida <kamop@debian.org>  Wed, 28 Aug 2002 02:24:14 +0900
+
+libjcode-pm-perl (0.73-1) unstable; urgency=low
+
+  * New Upstream Release.
+
+ -- Atsushi KAMOSHIDA <kamop@debian.org>  Fri, 15 Jun 2001 01:30:36 +0900
+
+libjcode-pm-perl (0.72-1) unstable; urgency=low
+
+  * New Upstream Release.
+
+ -- Atsushi KAMOSHIDA <kamop@debian.org>  Tue,  5 Jun 2001 11:01:13 +0900
+
+libjcode-pm-perl (0.71-1) unstable; urgency=low
+
+  * New Upstream Release.
+
+ -- Atsushi KAMOSHIDA <kamop@debian.org>  Wed, 23 May 2001 11:35:01 +0900
+
+libjcode-pm-perl (0.68-4) unstable; urgency=low
+
+  * Added Build-Depends: field.
+  * Changed make related issue in rules(#86686).
+
+ -- Atsushi KAMOSHIDA <kamop@debian.org>  Wed, 21 Feb 2001 22:07:04 +0900
+
+libjcode-pm-perl (0.68-3) unstable; urgency=low
+
+  * Fixed Depends field in control file so as to depend on suitable version 
+    of perl.
+
+ -- Atsushi KAMOSHIDA <kamop@debian.org>  Tue,  6 Feb 2001 22:14:52 +0900
+
+libjcode-pm-perl (0.68-2) unstable; urgency=low
+
+  * Fixed rules so that dpkg-buildpackage can generate .changes
+
+ -- Atsushi KAMOSHIDA <kamop@debian.org>  Fri,  5 Jan 2001 11:38:54 +0900
+
+libjcode-pm-perl (0.68-1) unstable; urgency=low
+
+  * New Upstream Release.
+  * Fixed perl dependency(#80688).
+
+ -- Atsushi KAMOSHIDA <kamop@debian.org>  Mon,  1 Jan 2001 22:29:28 +0900
+
+libjcode-pm-perl (0.64-1) unstable; urgency=low
+
+  * New Upstream Release.
+
+ -- Atsushi KAMOSHIDA <kamop@debian.org>  Sun,  3 Dec 2000 00:15:47 +0900
+
+libjcode-pm-perl (0.60-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Atsushi KAMOSHIDA <kamop@debian.org>  Wed, 24 Nov 1999 11:30:19 +0900
+
+Local variables:
+mode: debian-changelog
+End:

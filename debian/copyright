@@ -1,0 +1,16 @@
+This package was debianized by Atsushi KAMOSHIDA <kamop@debian.org> on
+Wed, 24 Nov 1999 11:30:19 +0900.
+
+It was downloaded from CPAN /CPAN/authors/id/D/DA/DANKOGAI/
+
+Upstream Author(s): Dan Kogai <dankogai@dan.co.jp>
+
+Copyright:
+
+Copyright 1999 Dan Kogai.
+
+This library is free software; you can redistribute it
+and/or modify it under the same terms as Perl itself.
+
+On a Debian system a copy of the Perl license can be found in the file
+'/usr/share/common-licenses/Artistic'.

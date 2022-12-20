@@ -1,0 +1,16 @@
+Source: libjcode-pm-perl
+Section: perl
+Priority: optional
+Maintainer: Atsushi KAMOSHIDA <kamop@debian.org>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: libjcode-pm-perl
+Architecture: any
+Depends: ${shlibs:Depends},${perl:Depends}
+Description: Perl extension interface to convert Japanese text
+ Jcode.pm is a Perl module that handles various Japanese charsets. 
+ It has all features available on jcode.pl PLUS
+  - Object-oriented approach on Japanese text handling 
+  - mime header handling 
+  - Unicode feature (UCS2 and UTF8) 
